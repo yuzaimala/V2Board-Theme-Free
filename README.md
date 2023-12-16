@@ -1,7 +1,7 @@
 # V2Board-Theme-Free
 
-V2Board免费主题，不提供源代码，仅提供打包后产物
-目前正在开发中，已完成大致框架
+V2Board免费主题，不提供源代码，仅提供打包后产物  
+目前正在开发中，已完成大致框架  
 
 # 预览图
 ![](https://cdn-fusion.imgimg.cc/i/2023/YG7QZscNpAgObjMt.png)
