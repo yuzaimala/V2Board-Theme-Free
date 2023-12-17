@@ -5,6 +5,8 @@ V2Board免费主题，不提供源代码，仅提供打包后产物
 
 Telegram联系我：[@bobozhi](https://t.me/bobozhi "@bobozhi")
 
+预览站点：[https://theme-one.yuzaimala.store/](https://theme-one.yuzaimala.store/ "https://theme-one.yuzaimala.store/")
+
 # 预览图
 
 ![](https://cdn-fusion.imgimg.cc/i/2023/YG7QZscNpAgObjMt.png)
