@@ -37,7 +37,7 @@ Telegram联系我：[@bobozhi](https://t.me/bobozhi "@bobozhi")
 
 #### ICON调用
 
-您可以在 <a href="https://icons.getbootstrap.com/" target="_blank">https://icons.getbootstrap.com/</a> 查看可以调用的图标。
+您可以在 [https://icons.getbootstrap.com/](https://icons.getbootstrap.com/) 查看可以调用的图标。
 
 ---
 
