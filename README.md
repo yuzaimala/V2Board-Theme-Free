@@ -7,6 +7,9 @@ Telegram联系我：[@bobozhi](https://t.me/bobozhi "@bobozhi")
 
 预览站点：[https://theme-one.yuzaimala.store/](https://theme-one.yuzaimala.store/ "https://theme-one.yuzaimala.store/")
 
+测试账号：`google@gmail.com`
+测试密码：`google@gmail.com`
+
 # 预览图
 
 ![](https://cdn-fusion.imgimg.cc/i/2023/YG7QZscNpAgObjMt.png)
