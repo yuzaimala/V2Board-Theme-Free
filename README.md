@@ -3,7 +3,7 @@
 V2Board免费主题，不提供源代码，仅提供打包后产物
 目前正在开发中，已完成大致框架
 
-Telegram联系我：[@bobozhi](https://t.me/bobozhi "@bobozhi")
+Telegram联系我：[@bobozhi](https://t.me/malayuzai "@malayuzai")
 
 主题下载：[https://build.yuzaimala.store/](https://build.yuzaimala.store/ "https://build.yuzaimala.store/")
 
